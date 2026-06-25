@@ -222,3 +222,22 @@ font-size:30px;
 }
 
 }
+
+
+.contact-card p a {
+    color: #001233;          
+    text-decoration: none;   
+    transition: color 0.3s ease; 
+}
+
+
+.contact-card p a i {
+    margin-right: 10px;     
+    color: #0022ff;          
+}
+
+
+.contact-card p a:hover {
+    color: #0022ff;          
+    text-decoration: none;   
+}
